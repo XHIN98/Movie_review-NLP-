@@ -1,4 +1,4 @@
-# NLP_review_korean
+# Movie_review_NLP
 
 영화 리뷰 긍정/부정 예측 모델 개발
 
